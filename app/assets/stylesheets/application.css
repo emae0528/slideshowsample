@@ -10,6 +10,6 @@
  *
  *= require_self
  *= require lightbox
-*=  require jquery.lightbox-0.5.css
+ *= require jquery.lightbox
  *= require_tree .
  */
