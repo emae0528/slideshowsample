@@ -11,5 +11,6 @@
  *= require_self
  *= require lightbox
  *= require jquery.lightbox
+ *= require main
  *= require_tree .
  */
